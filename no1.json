@@ -1,0 +1,54 @@
+{
+"name" : "Noval Rizky",
+"age" : 23,
+"address" : "Jl. Kesehatan, kel. Duyu, kec. Tatanga, Palu, Selawesi Tengah",
+"hobbies" : ["game", "futsal", "basket"],
+"is_married" : false,
+"list_school" : [
+			{	
+				"name" : "TK Alkhairat Duyu",
+				"year_in" : "1999",
+				"year_out" : "2001",
+				"major" : null
+			},
+			{	
+				"name" : "SDN Duyu Palu",
+				"year_in" : "2001",
+				"year_out" : "2007",
+				"major" : null
+			},
+			{	
+				"name" : "MTSN Model Palu",
+				"year_in" : "2007",
+				"year_out" : "2010",
+				"major" : null
+			},
+			{	
+				"name" : "SMAN 6 Palu",
+				"year_in" : "2010",
+				"year_out" : "2013",
+				"major" : null
+			},
+			{	
+				"name" : "Universitas Tadulako",
+				"year_in" : "2013",
+				"year_out" : "2018",
+				"major" : "Science Mathematic"
+			}
+],
+"skills" : [
+		{
+			"skill_name" : "java",
+			"level" : "beginer"
+		},
+		{
+			"skill_name" : "html",
+			"level" : "beginer"
+		},
+		{
+			"skill_name" : "css",
+			"level" : "beginer"
+		}
+],
+"interest_in_coding" : true
+}
